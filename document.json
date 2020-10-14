@@ -19,8 +19,7 @@
     }
   ],
   "buckets": [
-    "landsat-pds",
-    "NewSceneHTML",
+    "landsat-pds",   
     "landsat-pds-inventory"
   ],
   "meta": {
